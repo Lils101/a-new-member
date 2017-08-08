@@ -1,0 +1,29 @@
+.header-top {
+    height: 175px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+     }
+.text {
+    text-align:center;
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+label;
+font-family: 'Poiret One', cursive;
+}
+.box {
+    width:250px;
+    height:200px;
+    background-color:#1E9;
+    float:left;
+    text-align: center
+    padding:20px;
+    
+    
+}
+.group {
+    border:1px solid pink;
+    background-color:pink;
+    padding:20px 80px 20px 80px;
+}
+.clearfix {
+    clear:both;
+}
