@@ -14,3 +14,29 @@ font-family: 'Poiret One', cursive;
 {
     float: left;
 }
+img {
+    width: 600px;
+    height:450;
+}
+.group {
+    border:1px solid #eee;
+    background-color:#dcdcdc;
+
+figure {
+    background-image: url("../img/salad.jpg");
+    }
+figure {
+    background-image: url("../img/tree.jpeg");
+}
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
